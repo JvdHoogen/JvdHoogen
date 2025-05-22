@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JvdHoogen
-- 👀 I’m interested in Deep Learning, Time Series Classification and Research in general
-- 🌱 I’m currently learning/developing 1D CNN models for classification and regression tasks using univariate and multivariate time series data, e.g., signal data in various domains such as Bearing Fault Detection and Seismological analysis.  
-- 💞️ I’m looking to collaborate on classification and regression tasks containing, but not limited to, large-scale signal data from sensors. 
+- 👀 I’m interested in Deep Learning, Machine Learning, Graph Theory, Time Series Analysis and Research in general
+- 🌱 I’m currently investigating graph construction techniques for Graph Signal Processing applications. Previously I developed 1D CNN and GCN models for classification and regression tasks using univariate and multivariate time series data, e.g., signal data in various domains such as Bearing Fault Detection and Seismological analysis.  
+- 💞️ I’m looking to collaborate on machine learning and deep learning tasks containing, but not limited to, large-scale signal data from sensors. 
 - 📫 How to reach me, just contact me via my Github page.
 
 <!---
